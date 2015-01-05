@@ -1,0 +1,14 @@
+1.   Autoloading
+2.   Static
+3.   Namespaces
+4.   Type Hinting
+5.   Polymorphism
+6.   Objects and Reference
+7.   Fluent Interfaces Eg:: $object->method1()->method2() as long as each method returns $this
+8.   Public, Private, protected
+9.   __get(), __set() to do something if a property that doesn't exist is called __call() is for method
+10.  Handling Exceptions:: throw new Exception('Meaningful message')
+11.  Extending Exception class, even if it is empty, it can tell which part of the application the error is coming from
+12.  __toString() to output objects
+13.  serialize() and unserialize() to format objects into arrays
+14.  Execute PDO with array-- page 76
